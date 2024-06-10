@@ -1,27 +1,52 @@
-<h1 align="center">Hi 👋, I'm Shifat Ullah</h1>
-<h3 align="center">I am a mern stack developer from Bangladesh</h3>
+### Hi there 👋, my name is Shifat
+#### I am a computer engineer and MERN stack Developer from Bangladesh
+![I am a computer engineer and MERN stack Developer from Bangladesh](https://i.ibb.co/JnRNLJF/Mern-Stack-web-developer.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shifat-ullah&label=Profile%20views&color=0e75b6&style=flat" alt="shifat-ullah" /> </p>
+**I** am a Computer Science Engineer currently studying at Bangladesh University. My primary interest and expertise lie in MERN stack development. I have completed a course on MERN stack development from Programming Hero, which has significantly enhanced my 
 
-- 🔭 I’m currently working on [Pet_shop](https://stride1-pet-shop-client.vercel.app/)
+➡️**professional skills and experience.**
 
-- 🌱 I’m currently learning **Next JS, Mongoose,React Redux**
+Education and Academic Background
+I am pursuing my studies in Computer Science and Engineering (CSE). My main educational goal is to gain advanced knowledge and skills in the field of information technology, which will help me develop high-quality projects in the future.
 
-- 👨‍💻 All of my projects are available at [https://66658e8924ce83bd4f49f5ea--beamish-begonia-da6b74.netlify.app/](https://66658e8924ce83bd4f49f5ea--beamish-begonia-da6b74.netlify.app/)
+➡️ **Professional Skills**
+I am working as a MERN stack developer, which includes:
 
-- 💬 Ask me about **React, Tailwind css , Vite, Node, MongoDb, Express JS**
+✅MongoDB: For database management.
+✅Express.js: For server and routing management.
+✅React.js: For user interface and front-end development.
+✅Node.js: For back-end server and application development.
 
-- 📫 How to reach me **shifatullah128@gmail.com**
+➡️ **Projects and Experience**
+My projects span various areas of web development, such as:
 
-- ⚡ Fun fact **I am a google engineer**
+🔥E-commerce websites
+🔥Blogging platforms
+🔥Social media applications
+In each project, I have worked on both the front-end and back-end, enhancing my skills in full-stack web development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shifatullahallmahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shifatullahallmahmud/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shefatulla.allmahmud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shefatulla.allmahmud/" height="30" width="40" /></a>
-</p>
+➡️ **Future Plans**
+I am eager to learn more advanced technologies and tools like cloud computing, machine learning, and data science. My goal is to establish a career as a software developer and contribute to the growth of the IT sector in my country.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifat-ullah&show_icons=true&locale=en&layout=compact" alt="shifat-ullah" /></p>
+
+Skills: VUE JS / REACT / JS / HTML / CSS/ GitHub/ Node/ Express/ MongoDB/ Next/ Tailwind/ Bootstrap
+
+- 🔭 I’m currently working on Pet-shop Project 
+- 🌱 I’m currently learning Next JS, Redux, Framer Motion, typescript 
+- 💬 Ask me about React, Node, Express, Vite, Tailwind CSS 
+- ⚡ Fun fact: I am a Google Engineer🤣🤣 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shifat-ullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shifatullahallmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shefatulla.allmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shifatullah128/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shifatullah)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shifat-ullah)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shifat-ullah&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/shifat-ullah)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shifat-ullah)  
+
